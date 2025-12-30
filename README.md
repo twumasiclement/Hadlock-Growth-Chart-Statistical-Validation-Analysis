@@ -19,14 +19,7 @@ The analyses underpin the findings reported in the associated manuscript, includ
 
 2.  Quantify misclassification of SGA at clinically relevant thresholds (3rd and 10th centiles)
 
-3.  Examine implications for:
-
-    * Stillbirth
-
-    * Composite severe perinatal morbidity
-   (umbilical cord pH < 7.0, Apgar score at 5 minutes < 7, severe RDS)
-
-4. Apply functional data analytic methods to assess internal consistency across gestation
+3. Apply functional data analytic methods to assess internal consistency across gestation
 
 
 # Key Analytical Components
