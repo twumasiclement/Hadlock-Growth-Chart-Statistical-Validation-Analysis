@@ -9,7 +9,7 @@ THE HADLOCK REFERENCE CHART FOR FETAL WEIGHT: TIME TO RECONSIDER ITS CLINICAL US
 
 **Overview:**
 
-This repository contains the R code (dubbed `Main R codes_HadlockChart_Validation.r`) used to assess the internal consistency between the published Hadlock fetal growth reference charts and the corresponding equation-derived centiles, and to evaluate the clinical implications for classification of small for gestational age (SGA) fetuses and perinatal outcomes.
+This repository contains the R code (dubbed `Main R codes_HadlockChart_Validation.r` ) used to assess the internal consistency between the published Hadlock fetal growth reference charts and the corresponding equation-derived centiles, and to evaluate the clinical implications for classification of small for gestational age (SGA) fetuses and perinatal outcomes.
 
 The analyses underpin the findings reported in the associated manuscript, including discrepancies in centile classification (particularly the 3rd and 10th centiles), agreement between chart-based and equation-based approaches, and associations with adverse perinatal outcomes.
 
