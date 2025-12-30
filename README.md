@@ -1,0 +1,2 @@
+# Hadlock-Growth-Chart-Statistical-Validation-Analysis
+THE HADLOCK REFERENCE CHART FOR FETAL WEIGHT: TIME TO RECONSIDER ITS CLINICAL USE?
