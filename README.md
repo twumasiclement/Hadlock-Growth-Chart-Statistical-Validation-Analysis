@@ -1,6 +1,8 @@
 # Hadlock-Growth-Chart-Statistical-Validation-Analysis
 THE HADLOCK REFERENCE CHART FOR FETAL WEIGHT: TIME TO RECONSIDER ITS CLINICAL USE?
 
+**Authors**: Theophilus Adu-Bredu, Clement Twumasi, Sam Mathewlynn, Christos Ioannou, Lawrence Impey
+
 # Internal Consistency of the Hadlock Fetal Growth Reference
 
 # R code repository
