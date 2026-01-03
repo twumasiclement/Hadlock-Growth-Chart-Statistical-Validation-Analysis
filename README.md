@@ -55,6 +55,8 @@ Ensures numerical consistency with published parameters
 
 # Description of the R scripts:
 
-1. `Main R codes_HadlockChart_Validation.r`: This file contains all the R codes used to support the numerical analysis (including the functional data analysis and additional statistical analysis) on the internal consistency between the standard Hadlock growth chart and the correct chart under Hadlock's optimal growth model.
-2. `Empirical-Evaluation-Hadlock-Centiles.r`: This file contains the R codes used to support the empirical evaluation of the Hadlock growth chart discrepancy at some pre-selected week gestational ages (WGAs) based on an observed/empirical clinical (estimated fetal weight) dataset. NB: The clinical dataset considered can be made available upon reasonable request from the corresponding author.
+1. `Main R codes_HadlockChart_Validation.r`: This file contains all the R codes used to support the numerical analysis (including the functional data analysis and other statistical analysis) on the internal consistency between the standard Hadlock growth chart and the corrected growth chart (derived in the current study) under Hadlock's optimal growth model.
+2. `Empirical-Evaluation-Hadlock-Centiles.r`: This file contains the R codes used to support additional empirical statistical evaluation of the Hadlock growth chart discrepancy at some pre-selected week gestational ages and its corresponding estimated fetal weight (EFW) centiles based on an observed/empirical clinical (estimated fetal weight) dataset. 
+
+**NB: The clinical dataset used for the statistical analyses is available from the corresponding author upon reasonable request.**
 
